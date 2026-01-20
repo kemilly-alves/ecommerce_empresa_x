@@ -1,2 +1,7 @@
 # ecommerce_empresa_x
-Este é um repositório de teste criado nas aulas do curso de Git e GitHub. 
+
+Vamos criar um e-commerce, para a empresa X e blablabla
+
+## Funcionalidades:
+
+Checkout, Tela de produto, Catálogo, Home com banner 
