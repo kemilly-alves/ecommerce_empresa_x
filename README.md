@@ -58,3 +58,12 @@ Contribuidor principal: https://github.com/kemilly-alves
 Contribuidor principal: [Kemilly Alves](https://github.com/kemilly-alves)
 
 [![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png)](https://github.com/kemilly-alves)
+
+
+## Código da função soma
+
+```javascript
+function soma(a, b) {
+    return a +b;
+}
+
